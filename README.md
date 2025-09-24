@@ -19,3 +19,7 @@ Note - All these content in this repo do not belongs to me , it is provided by I
 | **Week 10** | Directional Ascent and Descent, Tangent (Hyper) Plane, Critical Points – The direction of steepest ascent/descent; Tangents for scalar-valued multivariable functions; Finding the tangent hyperplane; Critical points for multivariable functions |
 | **Week 11** | Higher Order Partial Derivatives, Hessian Matrix and Local Extrema, Differentiability – Higher order partial derivatives and the Hessian matrix; The Hessian matrix and local extrema for f(x,y); The Hessian matrix and local extrema for f(x,y,z); Differentiability for Multivariable Functions; Review of Maths - 2 |
 
+
+
+For more Info Visit official course page - [Mathematics for Data Science 2](https://study.iitm.ac.in/ds/course_pages/BSMA1003.html)
+
